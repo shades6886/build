@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcff12D86fbB2c084C5944a3450bBd554d1195638",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcff12d86fbb2c084c5944a3450bbd554d1195638",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Rawdy Packles",
+  "SYMBOL": "RP",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rowdy-pickles",
+  "SHOW_BACKGROUND": true
+}
